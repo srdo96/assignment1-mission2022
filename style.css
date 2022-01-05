@@ -15,4 +15,12 @@ h1 {
 }
 .half-width img {
   width: 55%;
+  color: lightsalmon;
+}
+.anchor-button {
+  text-decoration: none;
+  background-image: linear-gradient(lightsalmon, tomato);
+  padding: 15px 40px;
+  color: whitesmoke;
+  border-radius: 5px;
 }
