@@ -1,8 +1,14 @@
 body {
   font-family: "Yeseva One", cursive;
-  font-weight: 400;
 }
-
+h1 {
+  font-size: 50px;
+  font-weight: 500;
+  border-right: 5pd solid;
+  border-left: 5px solid;
+  border-image: linear-gradient(cyan, darkblue);
+  border-image-slice: 10%;
+}
 .red-color {
   color: red;
 }
@@ -11,10 +17,12 @@ body {
 }
 .half-width {
   width: 50%;
+  padding: 9%;
+  margin-left: 2%;
+  font-size: 40px;
 }
 .half-width img {
-  width: 55%;
-  color: lightsalmon;
+  width: 50%;
 }
 .anchor-button {
   text-decoration: none;
