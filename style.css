@@ -1,0 +1,18 @@
+body {
+  font-family: "Playfair Display", serif;
+}
+h1 {
+  font-size: 70px;
+}
+.red-color {
+  color: red;
+}
+.flexible-container {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 55%;
+}
