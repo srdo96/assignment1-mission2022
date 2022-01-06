@@ -11,8 +11,7 @@ h1 {
   border-radius: 2px;
   margin-top: 25%;
 }
-h2 {
-}
+
 h3 {
   font-size: 30px;
 }
@@ -88,6 +87,18 @@ h3 {
   padding-left: 20px;
   border-radius: 2px;
   margin-top: 20%;
+}
+.develop-without-limits-section {
+  background-image: url(/images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 300px;
+  background-position: left;
+}
+.global-community-section {
+  background-image: url(/images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position: right bottom;
 }
 .subscribe-button {
   background-image: linear-gradient(45deg, lightsalmon, tomato);
