@@ -33,7 +33,7 @@ h3 {
 .flexible-container {
   display: flex;
   margin-left: 7.5%;
-  margin-bottom: -8.9px;
+  margin-bottom: -8px;
 }
 .half-width {
   width: 50%;
